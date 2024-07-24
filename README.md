@@ -27,10 +27,10 @@ Performance analysis and improvements
 
 # API Documentation
 Provide a link to access the Swagger documentation:
-Swagger UI: http://localhost:3009/api-docs 
+Swagger UI: http://localhost:5000/api-docs 
 
 # Usage
 use the swagger page to post, get, update, delete products
-alternatively use link (http://localhost:3009/api-docs/#/Products/post_products)
+alternatively use link http://localhost:5000/api-docs/#/Products/post_products
 replace "post_products" with your purpose link 
 
